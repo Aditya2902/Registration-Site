@@ -1,5 +1,6 @@
 body{
   background-image: url("b.jpg");
+  background-size: cover;
 }
 h1{
   color:#fadadd;
@@ -9,4 +10,7 @@ h5{
 }
 h3{
   color:#fadadd;
+}
+hr{
+  color: white;
 }
